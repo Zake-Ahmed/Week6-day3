@@ -1,5 +1,4 @@
-mark = input('Please input you mark ')
-mark = float(mark)
+mark = float(input('Please input you mark '))
 
 if mark>85:
     print("Distinction")
